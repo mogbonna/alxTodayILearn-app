@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alxTodayILearn-app/static/css/main.e99829d0.css",
+    "main.js": "/alxTodayILearn-app/static/js/main.287f409d.js",
+    "static/js/775.36619db8.chunk.js": "/alxTodayILearn-app/static/js/775.36619db8.chunk.js",
+    "index.html": "/alxTodayILearn-app/index.html",
+    "main.e99829d0.css.map": "/alxTodayILearn-app/static/css/main.e99829d0.css.map",
+    "main.287f409d.js.map": "/alxTodayILearn-app/static/js/main.287f409d.js.map",
+    "775.36619db8.chunk.js.map": "/alxTodayILearn-app/static/js/775.36619db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99829d0.css",
+    "static/js/main.287f409d.js"
+  ]
+}
